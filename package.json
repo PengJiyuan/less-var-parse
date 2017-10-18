@@ -1,0 +1,24 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "parse less vars to js variables.",
+  "main": "index.js",
+  "scripts": {
+    "demo": "cd example && node parse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengJiyuan/less-var-parse.git"
+  },
+  "keywords": [
+    "less",
+    "var",
+    "parse"
+  ],
+  "author": "PengJiyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PengJiyuan/less-var-parse/issues"
+  },
+  "homepage": "https://github.com/PengJiyuan/less-var-parse#readme"
+}
