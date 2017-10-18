@@ -1,5 +1,5 @@
 {
-  "name": "yes",
+  "name": "less-var-parse",
   "version": "1.0.0",
   "description": "parse less vars to js variables.",
   "main": "index.js",
